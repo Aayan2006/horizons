@@ -1,0 +1,28 @@
+header, footer{
+	background-color: #004a4a;	
+	color: #ddd;
+	padding: 20px;
+	text-align: center;
+}
+aside {						
+		padding-bottom: 10px;
+		font-weight: bold
+}			
+.title {
+color: lime;
+}
+.orderedlist {
+	color: darkgreen;
+}
+
+section, article {
+    padding: 10px;
+    background-image: url("https://blog.malwarebytes.org/wp-content/uploads/2014/02/Apple-Logo.png");
+}
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+
+p {
+    font-size: 20px;
+}
